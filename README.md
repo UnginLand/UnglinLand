@@ -1,2 +1,4 @@
 # UnglinLand
-UnginLang main repository
+UnginLand main repository
+
+UnginLand is a Symfony REST API project. 
